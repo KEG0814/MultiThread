@@ -1,0 +1,15 @@
+D:\_Git\ThreadClass\ThreadClass\bin\Debug\net6.0\ThreadClass.exe
+D:\_Git\ThreadClass\ThreadClass\bin\Debug\net6.0\ThreadClass.deps.json
+D:\_Git\ThreadClass\ThreadClass\bin\Debug\net6.0\ThreadClass.runtimeconfig.json
+D:\_Git\ThreadClass\ThreadClass\bin\Debug\net6.0\ThreadClass.dll
+D:\_Git\ThreadClass\ThreadClass\bin\Debug\net6.0\ThreadClass.pdb
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.csproj.AssemblyReference.cache
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.AssemblyInfoInputs.cache
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.AssemblyInfo.cs
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.csproj.CoreCompileInputs.cache
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.dll
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\refint\ThreadClass.dll
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.pdb
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ThreadClass.genruntimeconfig.cache
+D:\_Git\ThreadClass\ThreadClass\obj\Debug\net6.0\ref\ThreadClass.dll
